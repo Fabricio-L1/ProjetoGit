@@ -1,1 +1,2 @@
-Aprendendo sobre Git.
+Aprendendo sobre Git
+alterando 
